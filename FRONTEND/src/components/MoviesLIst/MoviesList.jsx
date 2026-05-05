@@ -34,6 +34,7 @@ function MoviesList() {
     setSelectedMovie(movie);
     setIsModalOpen(true);
     initializeSeats();
+    setSelectedSeats([]);
   };
 
   const initializeSeats = () => {

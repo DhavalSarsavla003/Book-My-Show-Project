@@ -26,5 +26,5 @@ A movie ticket booking application that allows users to browse movies, select se
 
 1. Clone the repository
 ```bash
-git clone https://github.com/DhavalSarsavla003/BOOK-MY-SHOW.git
+git clone https://github.com/DhavalSarsavla003/Book-My-Show-Project.git
 cd BOOK-MY-SHOW

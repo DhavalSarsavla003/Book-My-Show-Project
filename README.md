@@ -27,6 +27,11 @@ A movie ticket booking application that allows users to browse movies, select se
 <img width="1376" height="898" alt="Screenshot 2026-05-06 171035" src="https://github.com/user-attachments/assets/de28fd25-aa4e-4190-9c74-35ab3b559296" />
 
 
+## output oF Movies & Movie Booked List
+
+<img width="1918" height="982" alt="image" src="https://github.com/user-attachments/assets/e6842139-de1d-4571-8430-e606524fccb3" />
+
+
 
 ### Setup
 
